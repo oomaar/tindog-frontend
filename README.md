@@ -4,4 +4,4 @@ I Used: HTML, CSS, Bootstrap, Fontawesome, GoogleFonts: family-Montserrat and fa
 
 something like tinder application unless this one is specially for dogs 🐶.
 
-Category: School Project.
+Category: School Project: I Built This Project when I was learning about the basics of Bootstrap and responsiveness.
